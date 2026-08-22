@@ -1,66 +1,77 @@
 <div align="center">
 
-<!-- Dark/Light mode auto-switching banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner.svg?v=1" alt="hack2ai - Pankaj Kumar | Hacker & Python Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
+  <img src="banner.svg?v=2" alt="Pankaj Kumar - AI Engineer, Full Stack Developer and Generative AI Specialist" width="100%"/>
 </picture>
 
 <br/>
 
-<!-- Swinging ID Badge -->
-<img src="lanyard.svg?v=1" alt="hack2ai ID Badge" width="280"/>
+<img src="lanyard.svg?v=2" alt="Pankaj Kumar profile badge" width="280"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+## 👋 Hi, I'm Pankaj (Tony) Kumar
+
+### AI Engineer | Full Stack Developer | Generative AI & RAG Specialist
+
+**Anthropic • Google Cloud • IBM Certified**
+
+Building intelligent applications by combining **Generative AI, RAG, full-stack engineering, automation, and cybersecurity**.
+
+</div>
+
+---
 
 ## 🧠 About Me
 
 ```python
-class hack2ai:
-    name       = "Pankaj Kumar"
-    handle     = "@hack2ai"
-    role       = ["Hacker", "Python Developer", "Programmer"]
-    languages  = ["Python", "C", "Java"]
-    platforms  = ["GitHub", "HackerRank", "LeetCode", "LinkedIn"]
-    tagline    = "Hack the planet. Build the future. Never stop learning."
-    
-    def current_focus(self):
-        return [
-            "🔐 Ethical Hacking & Security Tools",
-            "🐍 Python Projects & Automation",
-            "⚔️  CTF Challenges",
-            "🌱 Machine Learning Fundamentals"
-        ]
-    
-    def fun_fact(self):
-        return "I debug at midnight ☕🌙"
+class PankajKumar:
+    name = "Pankaj (Tony) Kumar"
+    role = "AI Engineer | Full Stack Developer"
+    specialization = [
+        "Generative AI",
+        "RAG Systems",
+        "AI Agents & Automation",
+        "Full Stack Development",
+        "Cybersecurity"
+    ]
+    certifications = [
+        "Anthropic",
+        "Google Cloud",
+        "IBM"
+    ]
+
+    current_focus = [
+        "🤖 Generative AI & LLM Applications",
+        "🔎 Retrieval-Augmented Generation (RAG)",
+        "🧠 AI Agents & Intelligent Automation",
+        "💻 MERN / Full Stack Engineering",
+        "🔐 Cybersecurity & AI Security"
+    ]
+
+    goal = "Build practical AI systems that solve real-world problems."
 ```
 
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Build
 
 <div align="center">
 
-<img src="stats.svg?v=1" alt="GitHub Stats" width="495"/>
-<img src="langs.svg?v=1" alt="Top Languages" width="495"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="trophies.svg?v=1" alt="GitHub Trophies" width="900"/>
+| Area | Focus |
+|---|---|
+| 🤖 **Generative AI** | LLM applications, AI assistants, prompt engineering |
+| 🔎 **RAG** | Retrieval pipelines, embeddings, vector search, grounded responses |
+| 🧩 **AI Agents** | Tool use, workflows, automation and multi-agent systems |
+| 💻 **Full Stack** | React, Node.js, Express, APIs and databases |
+| 🐍 **Python & ML** | AI/ML prototypes, automation and data processing |
+| 🔐 **Cybersecurity** | Security tooling, phishing detection and secure development |
 
 </div>
 
@@ -71,28 +82,73 @@ class hack2ai:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/GenAI-LLMs-8B5CF6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-06B6D4?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 
 ---
 
-## 📁 Projects
+## 🏅 Certifications & Learning
 
 <div align="center">
 
-| Project | Description | Language | Status |
-|---------|-------------|----------|--------|
-| [🔐 passwordChecker](https://github.com/hack2ai/passwordChecker) | Password strength analysis tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ Active |
-| [🎮 quizgame](https://github.com/hack2ai/quizgame) | Interactive quiz game application | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ✅ Active |
-| [📊 gradecalculater](https://github.com/hack2ai/gradecalculater) | Grade calculator template | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ✅ Active |
-| [⚙️ basic-c-codes](https://github.com/hack2ai/basic-c-codes) | C programming fundamentals | ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) | ✅ Active |
-| [⚡ hack2ai](https://github.com/hack2ai/hack2ai) | This awesome profile README | ![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat&logo=svg&logoColor=black) | 🚀 Live |
+**Anthropic Certified** • **Google Cloud Certified** • **IBM Certified**
+
+</div>
+
+My current learning and professional focus includes **Generative AI, RAG, AI engineering, cloud AI, LLM applications, full-stack development, and cybersecurity**.
+
+---
+
+## 📁 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| [🛡️ CyberShield AI](https://github.com/hack2ai) | AI-powered phishing URL detection and security analysis | Python • Flask • ML • APIs |
+| [🚪 AI Visitor Pass](https://github.com/hack2ai/visitor-pass) | AI-enabled visitor pass management system | TypeScript • Node.js • Express • Prisma • PostgreSQL |
+| [🤖 Personal AI Agent](https://github.com/hack2ai/personal-ai-agent-n8n) | AI agent and workflow automation system | AI • n8n • APIs |
+| [🔐 Password Checker](https://github.com/hack2ai/passwordChecker) | Password strength analysis tool | Python |
+| [🎮 Quiz Game](https://github.com/hack2ai/quizgame) | Interactive quiz application | Java |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="stats.svg?v=2" alt="GitHub Stats" width="495"/>
+<img src="langs.svg?v=2" alt="Top Languages" width="495"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="trophies.svg?v=2" alt="GitHub Trophies" width="900"/>
 
 </div>
 
@@ -102,7 +158,6 @@ class hack2ai:
 
 <div align="center">
 
-<!-- Snake eats your contribution graph (after running the Action) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hack2ai/hack2ai/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hack2ai/hack2ai/output/snake-light.svg">
@@ -128,10 +183,10 @@ class hack2ai:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hack2ai&color=c770f0&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=hack2ai&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Hack the planet. Build the future. Never stop learning."* 🚀
+### "Build intelligent systems. Ship real solutions. Keep learning."
 
-**hack2ai** • Pankaj Kumar • 2024
+**Pankaj (Tony) Kumar** • AI Engineer • Full Stack Developer • Generative AI & RAG Specialist
 
 </div>
