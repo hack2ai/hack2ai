@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=3">
-  <img src="banner.svg?v=3" alt="Pankaj Kumar - AI Engineer, Full Stack Developer and Generative AI & RAG Specialist" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=4">
+  <img src="banner.svg?v=4" alt="Pankaj Kumar — AI Engineer, Full Stack Developer and Generative AI & RAG Specialist" width="100%"/>
 </picture>
 
 <br/>
@@ -18,142 +18,135 @@
 
 ---
 
-## About Me
+## About
 
-I’m **Pankaj (Tony) Kumar**, an **AI Engineer and Full Stack Developer** focused on building practical, production-oriented software with **Generative AI, RAG, AI agents, automation, and cybersecurity**.
+I build practical software at the intersection of **AI engineering, full-stack development, automation, and cybersecurity**.
 
-My engineering approach combines strong application development with secure system design, API integration, data workflows, and AI-powered features.
+My work focuses on turning AI capabilities into usable systems: agentic workflows, RAG applications, secure APIs, data-driven applications, and production-oriented web platforms.
 
 ### Current Focus
 
 - Generative AI and LLM applications
 - Retrieval-Augmented Generation (RAG)
-- AI agents, tools and workflow automation
-- Full-stack applications with React, Node.js and TypeScript
-- Python, machine learning and AI engineering
-- Cybersecurity and AI-assisted security systems
+- AI agents, tool calling, and workflow automation
+- React, Node.js, TypeScript, and Python backends
+- Machine learning and data applications
+- Cybersecurity and AI-assisted security analysis
 
 ---
 
-## Core Expertise
+## Technical Skills
 
-<div align="center">
-
-| Domain | Technologies / Skills |
+| Area | Technologies |
 |---|---|
 | **AI / GenAI** | LLMs • Prompt Engineering • AI Agents • AI APIs |
 | **RAG** | Embeddings • Retrieval • Vector Search • Grounded Generation |
 | **Backend** | Node.js • Express • Python • Flask • REST APIs |
 | **Frontend** | React • TypeScript • JavaScript • HTML • CSS |
-| **Databases** | PostgreSQL • MongoDB • SQLite |
+| **Databases** | PostgreSQL • MongoDB • SQLite • MySQL |
 | **ML / Data** | scikit-learn • Pandas • TensorFlow fundamentals |
-| **Security** | Phishing Detection • Secure APIs • Cybersecurity |
-| **Dev Tools** | Git • GitHub • Linux • Docker • VS Code |
-| **Automation** | n8n • API Workflows • Multi-Agent Workflows |
-
-</div>
+| **Security** | Phishing Detection • Secure APIs • Authentication • Cybersecurity |
+| **Automation** | n8n • API Workflows • AI Agent Workflows |
+| **DevOps / Tools** | Git • GitHub • Linux • Docker • CI/CD |
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### 🛡️ CyberShield AI
-**AI-assisted phishing and threat-intelligence platform** for defensive URL and domain analysis.
+### CyberShield AI
+AI-assisted phishing and threat-intelligence platform for defensive URL and domain analysis.
 
-`React` `TypeScript` `Node.js` `Express` `Python` `Gemini` `VirusTotal` `Security Analysis`
+`React` `TypeScript` `Node.js` `Gemini` `VirusTotal` `Security`
 
-[View Repository →](https://github.com/hack2ai/cyber-shield-AI2.2)
+[View CyberShield AI →](https://github.com/hack2ai/cyber-shield-AI2.2)
 
-### 🚪 AI Visitor Pass Management System
-Full-stack visitor management platform with authentication, role-based access, visitor approval workflows, QR verification, analytics and PostgreSQL-backed persistence.
+### AI Visitor Pass Management System
+Full-stack visitor-management platform with authentication, role-based access, approval workflows, QR verification, analytics, and PostgreSQL persistence.
 
 `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL`
 
-[View Repository →](https://github.com/hack2ai/visitor-pass)
+[View Visitor Pass →](https://github.com/hack2ai/visitor-pass)
 
-### 🤖 Personal AI Agent
-AI agent and workflow automation project integrating AI capabilities with practical automation workflows.
+### Personal AI Agent
+Tool-using AI automation workflow combining an LLM agent, conversational memory, n8n orchestration, and Gmail integration.
 
-`AI` `n8n` `APIs` `Automation`
+`AI Agents` `n8n` `OpenAI` `Automation`
 
-[View Repository →](https://github.com/hack2ai/personal-ai-agent-n8n)
+[View Personal AI Agent →](https://github.com/hack2ai/personal-ai-agent-n8n)
 
-### 📊 AI Stock Predictor
-Machine-learning project for experimenting with stock-price prediction and data-driven modeling.
+### Online Bookstore Management System
+Production-oriented Java/Spring Boot e-commerce platform with JWT security, transactional checkout, inventory locking, payments, testing, Docker, and CI/CD.
 
-[View Repository →](https://github.com/hack2ai/ai-stock-predictor)
+`Java` `Spring Boot` `MySQL` `JWT` `Docker`
+
+[View Bookstore →](https://github.com/hack2ai/online-bookstore-management-system)
+
+### Mini Social Media
+Full-stack social platform with authentication, posts, comments, follows, notifications, media uploads, MongoDB, and automated API testing.
+
+`Node.js` `Express` `MongoDB` `JavaScript`
+
+[View Mini Social Media →](https://github.com/hack2ai/mini-social-media)
+
+### Advanced Port Scanner
+Defensive network-security utility demonstrating TCP/SYN scanning concepts, service detection, and structured scan results.
+
+`Python` `Networking` `Cybersecurity`
+
+[View Port Scanner →](https://github.com/hack2ai/advanced-port-scanner)
 
 ---
 
-## Certifications & Professional Learning
+## Engineering Philosophy
+
+```text
+Understand the problem
+        ↓
+Design the system
+        ↓
+Build secure, testable components
+        ↓
+Integrate AI where it adds real value
+        ↓
+Automate quality checks
+        ↓
+Document the solution
+        ↓
+Iterate from feedback
+```
+
+I prefer **useful systems over demos**: clear architecture, explicit security boundaries, testable behavior, and documentation that explains engineering decisions.
+
+---
+
+## Certifications & Learning
+
+Professional learning across **Generative AI, cloud AI, LLM applications, RAG, full-stack engineering, machine learning, DevOps, and cybersecurity**, including training and certifications from platforms and organizations such as Anthropic, Google Cloud, IBM, Udemy, Great Learning, and Tutedude.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-**Anthropic • Google Cloud • IBM**
+<img src="stats.svg?v=4" alt="GitHub Profile Analytics" width="495"/>
+<img src="langs.svg?v=4" alt="Top Languages" width="495"/>
 
 </div>
-
-Focused professional learning across **Generative AI, cloud AI, LLM applications, RAG, full-stack engineering, machine learning and cybersecurity**.
-
----
-
-## Technology Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="stats.svg?v=3" alt="GitHub Profile Analytics" width="495"/>
-<img src="langs.svg?v=3" alt="Top Languages" width="495"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="trophies.svg?v=3" alt="GitHub Trophies" width="900"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hack2ai/hack2ai/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hack2ai/hack2ai/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/hack2ai/hack2ai/output/snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hack2ai/hack2ai/output/snake-dark.svg" alt="GitHub Contribution Activity" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
@@ -162,8 +155,6 @@ Focused professional learning across **Generative AI, cloud AI, LLM applications
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pankaj1243/)
 
 </div>
-
----
 
 <div align="center">
 
