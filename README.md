@@ -1,43 +1,67 @@
 <div align="center">
 
-<img src="./hero.svg?v=3" width="100%" alt="Animated profile banner for Pankaj (Tony) Kumar — Generative AI, RAG, AI Agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
-<br/><br/>
-<img src="./about-life.svg?v=1" width="100%" alt="What I build and my engineering interests" />
-<br/><br/>
-<img src="./stack.svg?v=2" width="100%" alt="Skills including Python, LangChain, LangGraph, RAG, full-stack development, and AI security" />
-<br/><br/>
-<img src="./id-dashboard.svg?v=1" width="100%" alt="Developer skill dashboard" />
+<img src="./hero.svg?v=4" width="100%" alt="Pankaj (Tony) Kumar — aspiring AI engineer focused on Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
+
+<p>
+  <a href="https://github.com/hack2ai"><img src="https://img.shields.io/badge/GitHub-hack2ai-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/pankaj-kumar-ab591a216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/profile/pkpankaj4699"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/u/pankaj1243/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
 </div>
 
-## Skills
+---
 
-- **AI & Generative AI:** Generative AI, Large Language Models (LLMs), AI Agents
-- **RAG & Agent Frameworks:** Retrieval-Augmented Generation (RAG), LangChain, LangGraph
-- **Programming:** Python
-- **Development:** Full-Stack Development
-- **Security:** AI Security, Cyber Security, LLM Security
+## About me
 
-## Featured projects
+I'm an **aspiring AI Engineer** interested in building practical applications with Generative AI, retrieval-augmented generation, and agentic workflows. I also care about the security of AI systems—especially how LLM-powered applications can be designed, evaluated, and deployed responsibly.
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
+- **Building:** AI-powered apps, RAG workflows, and agent-based tools
+- **Exploring:** LangChain, LangGraph, and LLM application patterns
+- **Security mindset:** AI security, cyber security, and LLM security
+- **Development:** Python and full-stack application development
+
+<img src="./about-life.svg?v=2" width="100%" alt="My approach: build useful systems, design with security in mind, and keep learning" />
+
+## Technical skills
+
+<img src="./stack.svg?v=3" width="100%" alt="Technical toolkit: Generative AI, RAG, LangChain, LangGraph, Python, full-stack development, cyber security, and LLM security" />
+
+## Selected projects
+
+| Project | Overview | Technologies / focus |
+|:--|:--|:--|
 | [CyberShield AI](https://github.com/hack2ai/cyber-shield-AI2.2) | AI-assisted phishing and threat analysis | React · TypeScript · Node.js |
-| [Visitor Pass](https://github.com/hack2ai/visitor-pass) | Visitor approvals, QR verification and analytics | React · PostgreSQL · Prisma |
-| [Personal AI Agent](https://github.com/hack2ai/personal-ai-agent-n8n) | Tool-using agent and workflow automation | n8n · AI Agents |
+| [AI Visitor Pass](https://github.com/hack2ai/visitor-pass) | Visitor approvals, QR verification, and analytics | React · PostgreSQL · Prisma |
+| [Personal AI Agent](https://github.com/hack2ai/personal-ai-agent-n8n) | Tool-using AI agent and workflow automation | n8n · AI agents |
 | [Online Bookstore](https://github.com/hack2ai/online-bookstore-management-system) | Secure e-commerce and transactional checkout | Java · Spring Boot · MySQL |
 | [Mini Social Media](https://github.com/hack2ai/mini-social-media) | Social platform with posts and notifications | Node.js · MongoDB |
 | [Advanced Port Scanner](https://github.com/hack2ai/advanced-port-scanner) | Defensive network-security utility | Python · Networking |
 
-## Contribution city
+## Current focus
 
-<img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="GitHub contribution city; generated daily by GitHub Actions" />
+<img src="./id-dashboard.svg?v=2" width="100%" alt="Current professional focus: AI engineering, retrieval systems, AI agents, and AI security" />
+
+## GitHub activity
 
 <div align="center">
-<img src="./connect.svg?v=1" width="100%" alt="Connect with Pankaj Kumar" />
 
-[GitHub](https://github.com/hack2ai) · [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-ab591a216) · [HackerRank](https://www.hackerrank.com/profile/pkpankaj4699) · [LeetCode](https://leetcode.com/u/pankaj1243/)
+<img src="https://github-readme-stats.vercel.app/api?username=hack2ai&show_icons=true&hide_border=true&bg_color=0b1220&title_color=67e8f9&icon_color=a5b4fc&text_color=e2e8f0&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack2ai&layout=compact&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=e2e8f0" height="165" alt="Most used programming languages" />
 
-**Build intelligent systems. Ship real solutions. Keep learning.**
 </div>
 
-<!-- The contribution city is generated by GitHub Actions; other SVG cards are designed profile graphics. -->
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="GitHub contribution city generated by the repository workflow" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="./connect.svg?v=2" width="100%" alt="Connect with Pankaj Kumar" />
+
+**Build thoughtfully. Secure by design. Keep learning.**
+
+</div>
