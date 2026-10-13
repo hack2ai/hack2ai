@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="./hero.svg?v=4" width="100%" alt="Pankaj (Tony) Kumar — aspiring AI engineer focused on Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
+<img src="./hero.svg?v=5" width="100%" alt="Pankaj (Tony) Kumar — aspiring AI engineer focused on Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
 
 <p>
-  <a href="https://github.com/hack2ai"><img src="https://img.shields.io/badge/GitHub-hack2ai-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/pankaj-kumar-ab591a216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.hackerrank.com/profile/pkpankaj4699"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/></a>
-  <a href="https://leetcode.com/u/pankaj1243/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://github.com/hack2ai"><img src="https://img.shields.io/badge/GitHub-hack2ai-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/pankaj-kumar-ab591a216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.hackerrank.com/profile/pkpankaj4699"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/></a>
+<a href="https://leetcode.com/u/pankaj1243/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 </div>
 
 ---
 
-## About me
+## Profile
 
-I'm an **aspiring AI Engineer** interested in building practical applications with Generative AI, retrieval-augmented generation, and agentic workflows. I also care about the security of AI systems—especially how LLM-powered applications can be designed, evaluated, and deployed responsibly.
+I'm an **aspiring AI Engineer** exploring how Generative AI, retrieval-augmented generation, and agentic workflows can solve practical problems. I'm also interested in building AI applications with security and responsible design in mind.
 
-- **Building:** AI-powered apps, RAG workflows, and agent-based tools
-- **Exploring:** LangChain, LangGraph, and LLM application patterns
-- **Security mindset:** AI security, cyber security, and LLM security
-- **Development:** Python and full-stack application development
+- **Building:** AI-powered apps, RAG pipelines, and agent-based tools
+- **Exploring:** LangChain, LangGraph, LLM application patterns, and Python
+- **Security interests:** AI Security, Cyber Security, and LLM Security
+- **Development:** Full-stack applications and API-driven systems
 
-<img src="./about-life.svg?v=2" width="100%" alt="My approach: build useful systems, design with security in mind, and keep learning" />
+<img src="./about-life.svg?v=3" width="100%" alt="Engineering principles: build, secure, and iterate" />
 
-## Technical skills
+## Technical toolkit
 
-<img src="./stack.svg?v=3" width="100%" alt="Technical toolkit: Generative AI, RAG, LangChain, LangGraph, Python, full-stack development, cyber security, and LLM security" />
+<img src="./stack.svg?v=4" width="100%" alt="Skills across Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, cyber security, and LLM security" />
 
 ## Selected projects
 
@@ -41,19 +41,19 @@ I'm an **aspiring AI Engineer** interested in building practical applications wi
 
 ## Current focus
 
-<img src="./id-dashboard.svg?v=2" width="100%" alt="Current professional focus: AI engineering, retrieval systems, AI agents, and AI security" />
+<img src="./id-dashboard.svg?v=3" width="100%" alt="Current focus: AI engineering, retrieval systems, agent workflows, and AI security" />
 
 ## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hack2ai&show_icons=true&hide_border=true&bg_color=0b1220&title_color=67e8f9&icon_color=a5b4fc&text_color=e2e8f0&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack2ai&layout=compact&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=e2e8f0" height="165" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=hack2ai&show_icons=true&hide_border=true&bg_color=0a111e&title_color=67e8f9&icon_color=a5b4fc&text_color=e2e8f0&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack2ai&layout=compact&hide_border=true&bg_color=0a111e&title_color=67e8f9&text_color=e2e8f0" height="165" alt="Top programming languages" />
 
 </div>
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="GitHub contribution city generated by the repository workflow" />
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="GitHub contribution city generated by GitHub Actions" />
 </div>
 
 ---
