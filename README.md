@@ -1,12 +1,6 @@
 <div align="center">
 
-# Pankaj (Tony) Kumar <sub>He/Him</sub>
-
-### Aspiring AI Engineer | Generative AI | RAG & AI Agents
-### Python | LangChain & LangGraph | Full-Stack Developer
-### AI Security | Cyber Security | LLM Security
-
-<img src="./hero.svg?v=2" width="100%" alt="Pankaj Kumar — Aspiring AI Engineer focused on Generative AI, RAG, agents, and security" />
+<img src="./hero.svg?v=3" width="100%" alt="Animated profile banner for Pankaj (Tony) Kumar — Generative AI, RAG, AI Agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
 <br/><br/>
 <img src="./about-life.svg?v=1" width="100%" alt="What I build and my engineering interests" />
 <br/><br/>
