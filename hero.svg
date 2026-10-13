@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330"><defs><linearGradient id="g"><stop stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#a855f7;#00e5ff" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#22c55e;#a855f7" dur="8s" repeatCount="indefinite"/></stop></linearGradient><radialGradient id="bg"><stop stop-color="#18254a"/><stop offset="1" stop-color="#080d1b"/></radialGradient></defs><rect width="1200" height="330" rx="26" fill="url(#bg)"/><g fill="none" stroke="url(#g)" opacity=".45"><circle cx="1000" cy="140" r="120"><animate attributeName="r" values="110;140;110" dur="7s" repeatCount="indefinite"/></circle><circle cx="1000" cy="140" r="85"/><path d="M740 40L1150 290M760 300L1120 30M680 170H1180"/></g><text x="70" y="80" font-family="Arial,sans-serif" font-size="22" fill="#9fb4d9" letter-spacing="4">ASPIRING AI ENGINEER</text><text x="65" y="145" font-family="Arial,sans-serif" font-size="49" font-weight="800" fill="#fff">Pankaj (Tony) Kumar</text><text x="70" y="190" font-family="Arial,sans-serif" font-size="23" fill="url(#g)">Generative AI • RAG • AI Agents</text><text x="70" y="228" font-family="Arial,sans-serif" font-size="21" fill="#b8c4df">Python • LangChain • LangGraph • Full Stack</text><text x="70" y="267" font-family="Arial,sans-serif" font-size="19" fill="#b8c4df">AI Security • Cyber Security • LLM Security</text><circle cx="1080" cy="135" r="35" fill="none" stroke="url(#g)" stroke-width="3"><animate attributeName="stroke-width" values="2;7;2" dur="3s" repeatCount="indefinite"/></circle><circle cx="1080" cy="135" r="9" fill="#00e5ff"><animate attributeName="r" values="7;13;7" dur="3s" repeatCount="indefinite"/></circle></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Pankaj (Tony) Kumar — animated AI and security profile</title>
+<desc id="desc">Animated profile banner featuring Generative AI, RAG, AI Agents, Python, LangChain, LangGraph, full-stack development, AI security, cyber security, and LLM security.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070d1b"/><stop offset=".55" stop-color="#101b37"/><stop offset="1" stop-color="#21133b"/></linearGradient>
+  <linearGradient id="neon"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#a78bfa;#4ade80;#22d3ee" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#4ade80;#22d3ee;#a78bfa" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+<g fill="none" stroke="url(#neon)" opacity=".32"><circle cx="1035" cy="145" r="115"><animate attributeName="r" values="95;135;95" dur="7s" repeatCount="indefinite"/></circle><circle cx="1035" cy="145" r="78"><animate attributeName="r" values="65;90;65" dur="5s" repeatCount="indefinite"/></circle><path d="M800 25L1160 300M790 300L1170 45M750 170H1190"><animate attributeName="opacity" values=".2;.8;.2" dur="4s" repeatCount="indefinite"/></path></g>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="62" y="61" font-size="19" letter-spacing="5" fill="#a5b4d5">ASPIRING AI ENGINEER</text>
+  <text x="58" y="125" font-size="48" font-weight="700" fill="#f8fafc">Pankaj (Tony) Kumar</text>
+  <text x="60" y="154" font-size="18" fill="#cbd5e1">He/Him</text>
+  <g fill="url(#neon)" font-size="23" font-weight="600" filter="url(#glow)">
+    <text x="62" y="207" opacity="0">Generative AI • RAG • AI Agents<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.12;.65;.82;1" dur="8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 12;0 0;0 0;0 -8;0 -8" dur="8s" repeatCount="indefinite"/></text>
+    <text x="62" y="207" opacity="0">Python • LangChain • LangGraph<animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.12;.25;.37;.65;1" dur="8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 12;0 0;0 0;0 -8" dur="8s" repeatCount="indefinite"/></text>
+    <text x="62" y="207" opacity="0">Full-Stack Development<animate attributeName="opacity" values="0;0;0;0;0;1;0" keyTimes="0;.25;.4;.55;.65;.78;1" dur="8s" repeatCount="indefinite"/></text>
+  </g>
+  <text x="62" y="254" font-size="20" fill="#dbeafe">AI Security • Cyber Security • LLM Security</text>
+  <g transform="translate(62 300)" font-size="15" fill="#dbeafe">
+    <rect x="0" y="0" width="145" height="36" rx="18" fill="#102943" stroke="#22d3ee"/><text x="72" y="23" text-anchor="middle">Generative AI</text>
+    <rect x="157" y="0" width="82" height="36" rx="18" fill="#102943" stroke="#22d3ee"/><text x="198" y="23" text-anchor="middle">RAG</text>
+    <rect x="251" y="0" width="124" height="36" rx="18" fill="#211b42" stroke="#a78bfa"/><text x="313" y="23" text-anchor="middle">AI Agents</text>
+    <rect x="387" y="0" width="92" height="36" rx="18" fill="#211b42" stroke="#a78bfa"/><text x="433" y="23" text-anchor="middle">Python</text>
+  </g>
+</g>
+<circle cx="1035" cy="145" r="22" fill="url(#neon)" filter="url(#glow)"><animate attributeName="r" values="14;25;14" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1035" cy="145" r="8" fill="#f8fafc"><animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></circle>
+<path d="M0 374 Q300 345 600 374 T1200 374" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8"><animate attributeName="d" values="M0 374 Q300 345 600 374 T1200 374;M0 374 Q300 395 600 374 T1200 374;M0 374 Q300 345 600 374 T1200 374" dur="6s" repeatCount="indefinite"/></path>
+</svg>
