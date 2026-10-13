@@ -1,22 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Pankaj (Tony) Kumar | AI Engineering and Security</title><desc id="desc">Professional dark navy profile banner highlighting Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Pankaj (Tony) Kumar — AI Engineering &amp; Security</title>
+<desc id="desc">Modern animated developer profile banner for Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset=".55" stop-color="#111c32"/><stop offset="1" stop-color="#17132c"/></linearGradient>
- <linearGradient id="accent"><stop stop-color="#67e8f9"><animate attributeName="stop-color" values="#67e8f9;#a5b4fc;#86efac;#67e8f9" dur="10s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#a5b4fc"><animate attributeName="stop-color" values="#a5b4fc;#86efac;#67e8f9;#a5b4fc" dur="10s" repeatCount="indefinite"/></stop></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#a5b4fc" stop-opacity="0"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b14"/><stop offset=".52" stop-color="#101a2c"/><stop offset="1" stop-color="#17142a"/></linearGradient>
+ <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+ <linearGradient id="flow"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#818cf8;#34d399;#22d3ee" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#818cf8"><animate attributeName="stop-color" values="#818cf8;#34d399;#22d3ee;#818cf8" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
+ <radialGradient id="mist"><stop stop-color="#6366f1" stop-opacity=".22"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
 </defs>
-<rect width="1200" height="390" rx="26" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="388" rx="25" fill="none" stroke="#334155"/>
-<g opacity=".16" stroke="#94a3b8" stroke-width="1"><path d="M720 0V390M800 0V390M880 0V390M960 0V390M1040 0V390M1120 0V390M720 70H1200M720 150H1200M720 230H1200M720 310H1200"/></g>
-<g fill="none" stroke="url(#accent)" opacity=".6"><circle cx="980" cy="168" r="115"><animate attributeName="r" values="105;122;105" dur="8s" repeatCount="indefinite"/></circle><circle cx="980" cy="168" r="82"/><circle cx="980" cy="168" r="48"><animate attributeName="r" values="42;54;42" dur="6s" repeatCount="indefinite"/></circle><path d="M805 55L1142 284M798 288L1155 45M752 168H1180"/></g>
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#334155" stroke-opacity=".75"/>
+<ellipse cx="1000" cy="175" rx="280" ry="230" fill="url(#mist)"/>
+<g stroke="#64748b" stroke-opacity=".13" stroke-width="1"><path d="M700 0V420M780 0V420M860 0V420M940 0V420M1020 0V420M1100 0V420M700 70H1200M700 150H1200M700 230H1200M700 310H1200"/></g>
+<g fill="none" stroke="url(#flow)" stroke-width="1.5" opacity=".6"><circle cx="972" cy="170" r="124"><animate attributeName="r" values="116;132;116" dur="8s" repeatCount="indefinite"/></circle><circle cx="972" cy="170" r="88"/><circle cx="972" cy="170" r="51"><animate attributeName="r" values="45;57;45" dur="6s" repeatCount="indefinite"/></circle><path d="M782 48L1150 296M790 304L1155 43M728 170H1190"/></g>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
- <text x="64" y="64" fill="#a5b4c9" font-size="17" font-weight="600" letter-spacing="4">ASPIRING AI ENGINEER  /  HE/HIM</text>
- <text x="60" y="127" fill="#f8fafc" font-size="49" font-weight="750">Pankaj (Tony) Kumar</text>
- <text x="63" y="171" fill="url(#accent)" font-size="24" font-weight="650">Generative AI · RAG · AI Agents</text>
- <text x="63" y="207" fill="#dbe4f0" font-size="20">Python · LangChain · LangGraph · Full-Stack</text>
- <text x="63" y="240" fill="#dbe4f0" font-size="20">AI Security · Cyber Security · LLM Security</text>
- <rect x="62" y="274" width="510" height="2" rx="1" fill="url(#line)"><animate attributeName="width" values="240;510;360;510" dur="7s" repeatCount="indefinite"/></rect>
- <text x="63" y="311" fill="#94a3b8" font-size="16">Building practical AI systems with security in mind.</text>
- <g transform="translate(63 334)" font-size="14" font-weight="600" fill="#e2e8f0"><rect width="120" height="30" rx="15" fill="#12273a" stroke="#256477"/><text x="60" y="20" text-anchor="middle">GENERATIVE AI</text><rect x="132" width="64" height="30" rx="15" fill="#17243d" stroke="#5363a2"/><text x="164" y="20" text-anchor="middle">RAG</text><rect x="208" width="112" height="30" rx="15" fill="#17243d" stroke="#5363a2"/><text x="264" y="20" text-anchor="middle">AI AGENTS</text><rect x="332" width="88" height="30" rx="15" fill="#12273a" stroke="#256477"/><text x="376" y="20" text-anchor="middle">PYTHON</text></g>
-</g><circle cx="980" cy="168" r="8" fill="#67e8f9"><animate attributeName="r" values="6;10;6" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="980" cy="168" r="20" fill="none" stroke="#67e8f9" stroke-width="2" opacity=".7"><animate attributeName="r" values="17;32;17" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3.4s" repeatCount="indefinite"/></circle>
-<path d="M0 380 Q300 360 600 380 T1200 380" fill="none" stroke="url(#line)" stroke-width="2"/>
+ <rect x="62" y="43" width="238" height="29" rx="14.5" fill="#101f30" stroke="#28576a"/><circle cx="79" cy="57.5" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.35;1" dur="2.6s" repeatCount="indefinite"/></circle><text x="92" y="62" font-size="12" font-weight="700" letter-spacing="2.2" fill="#b7c8da">ASPIRING AI ENGINEER</text>
+ <text x="58" y="133" font-size="49" font-weight="750" letter-spacing="-1.2" fill="#f8fafc">Pankaj (Tony) Kumar</text>
+ <text x="62" y="164" font-size="15" font-weight="600" letter-spacing="1.8" fill="#94a3b8">HE / HIM  ·  BUILDING WITH AI, THINKING ABOUT SECURITY</text>
+ <text x="62" y="215" font-size="25" font-weight="700" fill="url(#flow)">Generative AI  /  RAG  /  AI Agents</text>
+ <text x="62" y="252" font-size="20" fill="#d8e2ef">Python · LangChain · LangGraph · Full-Stack</text>
+ <text x="62" y="285" font-size="20" fill="#d8e2ef">AI Security · Cyber Security · LLM Security</text>
+ <path d="M62 310H600" stroke="#334155"/><path d="M62 310H600" stroke="url(#flow)" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 540;260 280;540 0;0 540" dur="7s" repeatCount="indefinite"/></path>
+ <text x="62" y="341" font-size="16" fill="#a5b4c8">Practical AI systems. Responsible design. Continuous learning.</text>
+ <g transform="translate(62 366)" font-size="12" font-weight="700" letter-spacing=".6" fill="#dbeafe"><rect width="116" height="28" rx="14" fill="#102b3a" stroke="#236477"/><text x="58" y="18" text-anchor="middle">GENERATIVE AI</text><rect x="126" width="58" height="28" rx="14" fill="#191d39" stroke="#4f5592"/><text x="155" y="18" text-anchor="middle">RAG</text><rect x="194" width="105" height="28" rx="14" fill="#191d39" stroke="#4f5592"/><text x="246" y="18" text-anchor="middle">AI AGENTS</text><rect x="309" width="82" height="28" rx="14" fill="#102b3a" stroke="#236477"/><text x="350" y="18" text-anchor="middle">PYTHON</text></g>
+</g>
+<circle cx="972" cy="170" r="8" fill="#67e8f9"><animate attributeName="r" values="6;10;6" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="972" cy="170" r="22" fill="none" stroke="#67e8f9" stroke-width="2"><animate attributeName="r" values="17;35;17" dur="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3.5s" repeatCount="indefinite"/></circle>
+<path d="M0 410 Q300 390 600 410 T1200 410" fill="none" stroke="url(#flow)" stroke-width="2" opacity=".8"/>
 </svg>
