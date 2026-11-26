@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg?v=5" width="100%" alt="Pankaj (Tony) Kumar — aspiring AI engineer focused on Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
+<img src="./hero.svg?v=5" width="100%" alt="Pankaj Kumar — aspiring AI engineer focused on Generative AI, RAG, AI agents, Python, LangChain, LangGraph, full-stack development, and AI security" />
 
 <p>
 <a href="https://github.com/hack2ai"><img src="https://img.shields.io/badge/GitHub-hack2ai-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
